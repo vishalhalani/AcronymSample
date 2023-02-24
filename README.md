@@ -14,6 +14,3 @@ This app can be used to get the list of Meanings/Largeforms for Abbreviation/Sho
 4. It uses Retrofit for network API call.
 
 
-## Demo :
-
-[AbbreviationApp.webm](https://user-images.githubusercontent.com/25075786/216053478-ce30fe11-8693-4b6f-883b-0597ca630829.webm)
